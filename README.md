@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left">🌟 Recently wrapped up frontend development — now diving deeper into the full stack and exploring new horizons.</h2>
+<h2 align="left">🌟 Recently wrapped up frontend and Backend development — now diving deeper into the full stack and exploring new horizons.</h2>
 
 ###
 
