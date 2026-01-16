@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left">🌟 Recently wrapped up Frontend & Backend development — now diving deeper into the Full-Stack and exploring new horizons.</h2>
+<h2 align="left">🌟 Specialized in Frontend & Backend development — now diving deeper into the Full-Stack and GEN AI and exploring new horizons.</h2>
 
 ###
 
