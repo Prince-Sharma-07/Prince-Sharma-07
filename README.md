@@ -1,65 +1,91 @@
-<h1 align="left">Hey 👋 I'm Prince Sharma</h1>
+<div align="center">
+  <h1>Hi there, I'm Prince Sharma 👋</h1>
+  <p><b>Full Stack Developer | Cloud & Distributed Systems | GenAI Workflows</b></p>
+  <p>Building high-throughput APIs, resilient microservices, and AI-driven business workflows.</p>
 
-<p align="left">
-  Full Stack Developer specializing in building high-throughput backend services, interactive web apps, and AI-driven business workflows.
-</p>
-
-###
-
-<p align="left">
-  💼 <b>Current Role:</b> Full Stack Developer at <b>Lyftr AI</b><br>
-  ⚙️ <b>Core Focus:</b> Python/FastAPI, TypeScript, Next.js, Distributed APIs & Cloud Infrastructure<br>
-  🔥 <b>Consistency:</b> 700+ days LeetCode streak | 1600+ rating | 5★ in Problem Solving (HackerRank)<br>
-  📫 <b>Connect:</b> connect.princesharma@gmail.com
-</p>
-
-###
-
-<h2 align="left">Tech Stack & Tools</h2>
-
-<div align="left">
-  <!-- Languages -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="40" alt="typescript" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql" />
-  <img width="15" />
-  
-  <!-- Frameworks & Runtimes -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs" />
-  <img width="15" />
-
-  <!-- Databases & ORM -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" height="40" alt="prisma" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain.svg" height="40" alt="graphql" />
-  <img width="15" />
-
-  <!-- Cloud & DevOps -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="gcp" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudflare/cloudflare-original.svg" height="40" alt="cloudflare" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git" />
+  <p>
+    <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="mailto:connect.princesharma@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="https://leetcode.com"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+    <a href="https://codolio.com"><img src="https://img.shields.io/badge/Codolio-4A90E2?style=flat" alt="Codolio" /></a>
+  </p>
 </div>
 
-###
+---
 
-<h2 align="left">What I Do</h2>
+### 👨‍💻 Professional Snapshot
 
-- 🚀 **Full-Stack Engineering:** Designing end-to-end applications using Next.js, React, FastAPI, Node.js, and PostgreSQL/MongoDB.
-- 💬 **Messaging & Automation Workflows:** Experienced in building production Meta WhatsApp Cloud API engines, Shopify integrations, and webhook delivery pipelines.
-- ⚡ **Cloud & Scalability:** Containerizing services with Docker and deploying robust applications on GCP, Cloudflare, and Vercel.
+- 💼 **Current Role:** Full Stack Developer at **Lyftr AI**
+- ⚙️ **Core Focus:** FastAPI backend architectures, event-driven webhooks, automated campaigns[cite: 1], and Next.js applications[cite: 1].
+- 🧠 **Problem Solving:** Maintained a **700+ days LeetCode streak**[cite: 1] with a **1600+ rating**[cite: 1] and **5-star DSA certification on HackerRank**[cite: 1].
+- 🎓 **Academics:** B.Tech in CSE at Quantum University (CGPA: 8.1)[cite: 1].
+
+---
+
+### 🛠 Tech Stack
+
+| Domain | Technologies |
+| :--- | :--- |
+| **Languages** | Python, TypeScript, JavaScript, SQL[cite: 1] |
+| **Frameworks & State** | FastAPI, React, Next.js, Node.js, Express.js, Redux, Zustand, TanStack Query[cite: 1] |
+| **Databases & ORMs** | PostgreSQL, MongoDB, SQLAlchemy, Prisma, GraphQL[cite: 1] |
+| **Cloud & DevOps** | Docker, Google Cloud Platform (GCP), Cloudflare, Inngest, Vercel[cite: 1] |
+| **APIs & Tools** | Meta WhatsApp Cloud API[cite: 1], Shopify API[cite: 1], Razorpay[cite: 1], FCM[cite: 1], Git, Postman[cite: 1] |
+
+<br/>
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="38" alt="python" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" height="38" alt="fastapi" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="38" alt="postgresql" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlalchemy/sqlalchemy-original.svg" height="38" alt="sqlalchemy" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="38" alt="typescript" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" height="38" alt="nextjs" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="38" alt="react" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" height="38" alt="mongodb" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" height="38" alt="prisma" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="38" alt="docker" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="38" alt="gcp" />
+</div>
+
+---
+
+### 💼 Production Experience Highlights
+
+#### **Full Stack Developer @ Lyftr AI** *(Jan 2026 – Present)*[cite: 1]
+- **WhatsApp Messaging Engine:** Engineered messaging backend handling inbound/outbound text, media, documents, and real-time webhook persistence using Python, FastAPI, and PostgreSQL[cite: 1].
+- **E-Commerce & AI Pipelines:** Integrated Meta WhatsApp Cloud API with Shopify APIs for merchant onboarding, catalog synchronization, abandoned checkout triggers, and AI-assisted conversation ingestion[cite: 1].
+- **Campaign Execution Engine:** Built multi-tenant WhatsApp campaign dispatch systems with audience segmentation, dynamic template validation, and parallel execution[cite: 1].
+- **Payments & Events:** Implemented Razorpay checkout integrations and FCM real-time notification systems to orchestrate asynchronous user journeys[cite: 1].
+
+#### **SDE Intern @ Hunto AI** *(Oct 2025 – Jan 2026)*[cite: 1]
+- Implemented audit logging triggers, dynamic email notification pipelines, and optimized DMARC analytics load times[cite: 1].
+- Built MongoDB aggregation pipelines and real-time dashboard visualizations for brand monitoring systems[cite: 1].
+
+---
+
+### 🧪 Featured Projects
+
+- **Job Portal with AI Resume Builder:** Next.js, TypeScript, Prisma ORM, MongoDB, REST APIs[cite: 1]
+  - Complete job platform featuring 100+ listings, user/company authentication, and optimized Prisma queries reducing redundant calls by 40%[cite: 1].
+- **Inventory Management System (IMS):** Next.js, TypeScript, GraphQL, Prisma ORM, MongoDB[cite: 1]
+  - 3-tier role-based access control (Admin, Manager, Staff), GraphQL data aggregations, and real-time analytics with Recharts[cite: 1].
+
+---
+
+### 📊 GitHub & Problem Solving Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true" height="150" alt="Streak Stats" />
+</div>
